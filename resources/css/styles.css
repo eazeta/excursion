@@ -1,0 +1,25 @@
+html {
+	background-color: black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+h1,
+h2 {
+	color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.downloadlink a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+.travelguidesection p {
+	color: gray;
+	font-size: 21px;
+}
